@@ -5,4 +5,3 @@ print("Wow!")
 print("Bye")
 print(0)
 print(1)
-

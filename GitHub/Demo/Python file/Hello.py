@@ -1,4 +1,4 @@
-print("Revert")
+
 print("Hi!")
 print("Hello")
 print("Wow!")
